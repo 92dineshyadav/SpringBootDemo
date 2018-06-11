@@ -9,7 +9,7 @@ public class Controller {
 	
 	@RequestMapping("/")
 	public String hello() {
-		return "Spring boot app message changed";
+		return "Spring boot app message";
 	}
 	
 }
